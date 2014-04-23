@@ -4,7 +4,7 @@
   <title><![CDATA[莫俊能的个人博客]]></title>
   <link href="http://mojunneng.github.io/atom.xml" rel="self"/>
   <link href="http://mojunneng.github.io/"/>
-  <updated>2014-04-24T01:38:29+08:00</updated>
+  <updated>2014-04-24T01:57:43+08:00</updated>
   <id>http://mojunneng.github.io/</id>
   <author>
     <name><![CDATA[莫俊能]]></name>
@@ -19,6 +19,9 @@
     <updated>2014-04-23T22:40:23+08:00</updated>
     <id>http://mojunneng.github.io/blog/2014/04/23/mohushuxue-base</id>
     <content type="html"><![CDATA[<p>&emsp;&emsp;模糊数学(模糊集）是模糊控制的数学基础，它是由美国加利福尼亚大学Zadeh教授最先提出的。他将模糊性和集合论统一起来，在不放弃集合的数学严格性的同时，使其吸取人脑思维中对于模糊现象认识和推理的优点。</p>
+
+<!--more-->
+
 
 <p>&emsp;&emsp;“模糊”，是指客观事物彼此间的差异在中间过渡时，界限不明显，呈现出的“亦此亦彼”性。“模糊”是相对于“精确”而言的。</p>
 
@@ -38,11 +41,6 @@
 <p>&emsp;&emsp;<img src="http://mojunneng.github.io/aticle_img/fuzzy2014042303.JPG" alt="" /></p>
 
 <p>&emsp;&emsp;则年龄为30岁的人属于“年轻人”的程度为：<img src="http://mojunneng.github.io/aticle_img/fuzzy2014042304.JPG" alt="" /></p>
-
-<!--more-->
-
-
-
 ]]></content>
   </entry>
   
