@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[莫俊能的个人博客]]></title>
-  <link href="http://mojunneng.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: IT Monitor | 莫俊能的个人博客]]></title>
+  <link href="http://mojunneng.github.io/blog/categories/it-monitor/atom.xml" rel="self"/>
   <link href="http://mojunneng.github.io/"/>
   <updated>2014-04-25T00:18:57+08:00</updated>
   <id>http://mojunneng.github.io/</id>
@@ -37,37 +37,6 @@
 <h3>Zabbix 学习与研究目标</h3>
 
 <p>&emsp;&emsp;熟悉Zabbix基本监控模块；研究API,了解并测试通过API取出实时、历史告警数据以及性能数据；研究报表API，如果采用别的报表组件改如何组织数据；研究告警通知规则设置策略，与现有监控平台的告警通知规则是否可做集成；研究Templates，是否可以通过一键批量设置；研究triggers与actions，其事件处理功能是否能满足监控需求；深入研究Zabbix核心源码。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[模糊数学基础]]></title>
-    <link href="http://mojunneng.github.io/blog/2014/04/23/mohushuxue-base/"/>
-    <updated>2014-04-23T22:40:23+08:00</updated>
-    <id>http://mojunneng.github.io/blog/2014/04/23/mohushuxue-base</id>
-    <content type="html"><![CDATA[<p>&emsp;&emsp;模糊数学(模糊集）是模糊控制的数学基础，它是由美国加利福尼亚大学Zadeh教授最先提出的。他将模糊性和集合论统一起来，在不放弃集合的数学严格性的同时，使其吸取人脑思维中对于模糊现象认识和推理的优点。</p>
-
-<!--more-->
-
-
-<p>&emsp;&emsp;“模糊”，是指客观事物彼此间的差异在中间过渡时，界限不明显，呈现出的“亦此亦彼”性。“模糊”是相对于“精确”而言的。</p>
-
-<p>&emsp;&emsp;“精确”：“老师”、“学生”、“工人”；“模糊”：“高个子”、“热天气”、“年轻人”。</p>
-
-<p>&emsp;&emsp;模糊数学并不是让数学变成模模糊糊的东西，而是用数学工具对模糊现象进行描述和分析。模糊数学是对经典数学的扩展，它在经典集合理论的基础上引入了“隶属函数”的概念，来描述事物对模糊概念的从属程度。</p>
-
-<p>&emsp;&emsp;普通集合的运算有交集、并集、补集、直积。设X，Y为两集合。定义X，Y的直积为</p>
-
-<p>&emsp;&emsp;<img src="http://mojunneng.github.io/aticle_img/fuzzy2014042301.JPG" alt="" /></p>
-
-<p>&emsp;&emsp;具体算法是：在X，Y中各取一个元素组成序偶（x，y），所有序偶组成的集合，就是X，Y的直积。</p>
-
-<p>&emsp;&emsp;模糊集合的定义：给定论域E中的一个模糊集  ，是指任意元素x in E,都不同程度地属于这个集合，元素属于这个集合的程度可以用隶属函数<img src="http://mojunneng.github.io/aticle_img/fuzzy2014042302.JPG" alt="" />来表示。
-例如论域为15到35岁之间的人，模糊集  表示“年轻人”，则模糊集的隶属函数可定义为</p>
-
-<p>&emsp;&emsp;<img src="http://mojunneng.github.io/aticle_img/fuzzy2014042303.JPG" alt="" /></p>
-
-<p>&emsp;&emsp;则年龄为30岁的人属于“年轻人”的程度为：<img src="http://mojunneng.github.io/aticle_img/fuzzy2014042304.JPG" alt="" /></p>
 ]]></content>
   </entry>
   
